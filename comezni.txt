@@ -1,0 +1,7 @@
+## initializare proiect de pe local 
+git initializare
+
+## descarcare de pe server
+
+git clone http/github.com/username/projectname.git
+
