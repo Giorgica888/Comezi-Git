@@ -4,4 +4,4 @@ git initializare
 ## descarcare de pe server
 
 git clone http/github.com/username/projectname.git
-
+#da
